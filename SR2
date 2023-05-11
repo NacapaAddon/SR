@@ -1,3 +1,5 @@
+<layouttype>thumbnail</layouttype>
+
 <channels>
 
 <channel>
@@ -7,14 +9,6 @@
 <fanart>https://archive.org/download/1_20230511_20230511_0228/1.jpg</fanart>
 <info>[COLOR yellow]Após décadas de terror e opressão, o Império Galáctico não existe mais e a Nova República surgiu em seu rastro. À espreita nos confins do espaço, longe da autoridade governamental, um lendário caçador de recompensas conhecido como o Mandaloriano vive de acordo com um código antigo, em uma luta implacável pela sobrevivência. Mas, ao ser contratado para recuperar uma encomenda preciosa para um cliente misterioso, o pistoleiro logo percebe que o mal ainda está à solta, forte e resistente como o aço beskar. Como deve ser... Essa é a maneira para aprender tudo a respeito do Mandaloriano! Por meio de informações do set de filmagem, curiosidades, fotos de produção e arte conceitual original, esta publicação o levará em uma jornada pelos Territórios da Orla Exterior. Descubra tudo a respeito da Criança, dos novos planetas e dos meios de transporte e torne-se um integrante pleno do clã do Mando.[/COLOR]</info>
 </channel>
-
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold]BRASIL[/COLOR][/B]</name>
-<thumbnail>https://archive.org/download/01_20230508/01.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/NacapaAddon/CBR/main/cbr</externallink>
-<fanart>https://archive.org/download/fanart01/fanart01.jpg</fanart>
-<info>[COLOR yellow]Se alguns canais do BRASIL live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]
-</info>
 </channel>
 
 <channel>
